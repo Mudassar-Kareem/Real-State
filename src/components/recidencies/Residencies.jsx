@@ -7,7 +7,7 @@ import {slidersettings} from "../../utils/common.js";
 const Residencies = () =>{
     return(
         <>
-         <section className="r-wrapper" >
+         <section className="r-wrapper" id="residence" >
             <div className=" paddings innerWidth r-container">
                 <div className=" flexColStart r-head">
                     <h3 className="orangeText">Best  Choices</h3>
